@@ -1,1 +1,1 @@
-# ana
+# uvicorn src.main:app
